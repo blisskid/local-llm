@@ -9,7 +9,3 @@ __pycache__/
 *.safetensors
 *.ckpt
 *.bin
-
-# Downloaded datasets and generated training text
-data/
-train.txt
